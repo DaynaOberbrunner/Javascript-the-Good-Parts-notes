@@ -1,7 +1,7 @@
-# Notes on _Douglas Crockford's_ Javascript the Good Parts :rocket:
+##Notes on _Douglas Crockford's_ Javascript the Good Parts :rocket:
 
 > These are _notes_ on the book `Javascript the Good Parts` which was published
-in **2008, before es6**. There have not been any revised editions of the book published at the time of writing,
+in  *2008, before es6**. There have not been any revised editions of the book published at the time of writing,
 see https://www.github.com/dwyl/Javascript-the-Good-Parts-notes/issues/33 for the
 ongoing conversation on this.
 
@@ -1180,3 +1180,4 @@ Having read through this appendix (you can read more about [JSLint here](https:/
 
 
 Interesting article on prototypes: https://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/
+ 
